@@ -6,6 +6,6 @@ Hello there, [I’m James](http://www.jshedden.com). I’ve made a very simple j
 
 If you have several elements (eg images) of the same size within a single parent element, this plugin will automatically display them one by one, with configurable options for speed, starting point, direction and more.
 
-Please have a look below for instructions on how to use my plugin - and if you have some ideas for making it better, get stuck in!
+Please have at ["jqueryflipbook.jshedden.com"](http://jqueryflipbook.jshedden.com) for instructions on how to use my plugin - and if you have some ideas for making it better, get stuck in!
 
 1. ["Flip book"](http://en.wikipedia.org/wiki/Flip_book), Wikipedia. Retrieved 29/04/2014.
